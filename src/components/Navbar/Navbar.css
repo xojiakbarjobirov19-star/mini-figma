@@ -1,0 +1,25 @@
+.apl {
+width: 35px;
+height: 41.543052673339844px;
+margin-bottom: -70px;
+margin-left: 100px;
+position: relative;
+}
+
+.nav {
+margin-left: 750px;
+display: flex;
+gap: 50px;
+margin-top: 50px;
+}
+
+.ul {
+width: 270px;
+height: 23px;
+gap: 20px;
+display: flex;
+list-style: none;
+
+}
+
+

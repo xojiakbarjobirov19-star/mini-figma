@@ -1,0 +1,43 @@
+.section-2 {
+  width: 100%;
+  height: 739.93px;
+  position: relative;
+}
+
+.nike {
+width: 380px;
+height: 180px;
+position: absolute;
+margin-top: 200px;
+font-size: 35px;
+margin-left: 100px;
+}
+
+.bigger-text {
+  width: 450px;
+height: 96px;
+margin-top: 360px;
+margin-left: 100px;
+position: absolute;
+line-height: 150%;
+color: gray;
+border-left: 3px solid gray;
+  padding-left: 50px;
+  margin-right: 7px;
+  margin-bottom: 30px;
+  position: absolute;
+  font-size: 14.5px;
+}
+
+
+.site-btn-2 {
+  margin-top: 500px;
+margin-left: 100px;
+position: absolute;
+width: 260px;
+height: 51px;
+padding: 12px;
+background-color:  #EA625C;
+color: white;
+border: 0cap;
+}
